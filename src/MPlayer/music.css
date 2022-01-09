@@ -1,0 +1,11 @@
+.active {
+  font-weight: bold;
+}
+
+.title:hover {
+  cursor: pointer;
+}
+
+.active:hover {
+  cursor: pointer;
+}

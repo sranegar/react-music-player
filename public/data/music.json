@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "title": "Lonesome Fiddle Blues",
+    "artist": "String Cheese Incident",
+    "url": "music/LonesomeFiddle.mp3"
+  },
+  {
+    "id": 1,
+    "title": "Little Hands",
+    "artist": "String Cheese Incident",
+    "url": "music/LittleHands.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Dudley's Kitchen",
+    "artist": "String Cheese Incident",
+    "url": "music/Dudleys.mp3"
+  }
+]
